@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+}
+p{
+    align-self: center;
+    font-family: fantasy;
+    font-size: medium;
+}
+td{
+    text-align: center;   
+}
+tr{
+    font-size:x-large
+}
